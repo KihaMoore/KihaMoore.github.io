@@ -63,7 +63,13 @@ a:hover{
     
 }
 
+hr{
 
+    background-color:#dddddd;
+    width:580px;
+    height:2px;
+    border:none;
+}
 
 .gallery{
     width:600px;
