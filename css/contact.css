@@ -57,7 +57,7 @@ a:hover{
 
 
 .about-wrapper{
-    background-image: url("images/intersection.png");
+    background-image: url("../images/intersection.png");
     width:100%;
     height:750px;
     margin-bottom:-10px;
