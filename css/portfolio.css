@@ -36,12 +36,13 @@ ul {
     list-style: none;
     margin-left:100px;
     padding-right:400px;
+
     
   }
 
 li{
     float:right;
-    padding: 10px 35px;
+    padding: 20px 35px;
     color:#777777;
     
 }
